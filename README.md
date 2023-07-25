@@ -9,3 +9,8 @@ Este site exibe recursos essenciais para o desenvolvimento de um site moderno, c
 - CSS3
 - Javascrip ES6
 - ✨Origamid ✨
+
+<h2 align="center">Layout da página principal</h2>
+<p align="center">
+  <img src="https://github.com/GilbertoSEspinoso/assets/blob/main/bikcraft/bikcraft-intro_resized.jpg?raw=true" alt="Descrição da imagem">
+</p>
