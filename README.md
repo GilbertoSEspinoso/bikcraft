@@ -9,7 +9,7 @@ Site responsivo que exibe recursos essenciais para o desenvolvimento de um site 
 ## Layout da página principal
 
 <p align="center">
-  <img src="https://github.com/GilbertoSEspinoso/assets/blob/main/bikcraft/bikcraft-intro_resized.jpg?raw=true" alt="Descrição da imagem">
+  <img src="https://github.com/GilbertoSEspinoso/assets/blob/main/bikcraft/bikcraft-index_resized.jpg?raw=true" alt="Descrição da imagem">
 </p>
 <br>
 
@@ -29,9 +29,10 @@ git clone https://github.com/GilbertoSEspinoso/bikcraft.git
 
 <br><br><br>
 
-<p align="center">✨Origamid ✨</p>
- 
-# Autor
+<p align="center"></p>
+
+
+## autor
 
 Gilberto S Espinoso
 
