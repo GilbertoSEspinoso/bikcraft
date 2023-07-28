@@ -1,16 +1,38 @@
-# Bikcraft ~ Bicicletas feitas sob medida.
+# Bikcraft
 
-## _Site responsivo com HTML, CSS e Javascript (Site de venda de bicicletas)_
+# Sobre o projeto
 
-Este site exibe recursos essenciais para o desenvolvimento de um site moderno, com todas as páginas estilizadas usando os principais recursos do `CSS` para torná-lo completamente responsivo.
+Site responsivo que exibe recursos essenciais para o desenvolvimento de um site moderno, com todas as páginas estilizadas usando os principais recursos do `CSS` para torná-lo completamente responsivo.
 
-- Projeto final do curso de `HTML` e `CSS` moderno da Origamid.
-- HTML5
-- CSS3
-- Javascrip ES6
-- ✨Origamid ✨
+> Link: https://bikcraftii.netlify.app/
 
-<h2 align="center">Layout da página principal</h2>
+## Layout da página principal
+
 <p align="center">
   <img src="https://github.com/GilbertoSEspinoso/assets/blob/main/bikcraft/bikcraft-intro_resized.jpg?raw=true" alt="Descrição da imagem">
 </p>
+<br>
+
+# Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Javascrip ES6
+
+```bash
+# clonar repositório
+git clone https://github.com/GilbertoSEspinoso/bikcraft.git
+
+# entre na pasta do projeto e execute o arquivo index.html
+
+```
+
+<br><br><br>
+
+<p align="center">✨Origamid ✨</p>
+ 
+# Autor
+
+Gilberto S Espinoso
+
+https://www.linkedin.com/in/gilbertoespns
